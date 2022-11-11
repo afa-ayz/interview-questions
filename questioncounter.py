@@ -44,7 +44,6 @@ with os.scandir('./') as entries:
 # ./arc-gis/arc-gis-quiz.md 5.0 [x] 5 [ ] 0.0
 # ./autocad/autocad-quiz.md 76.75 [x] 75 [ ] 1.75
 # ./autodesk-fusion-360/autodesk-fusion-360-quiz.md 37.25 [x] 25 [ ] 12.25
-# ./aws/aws-quiz.md 103.5 [x] 104 [ ] -0.5
 # ./aws-lambda/aws-lambda-quiz.md 57.0 [x] 55 [ ] 2.0
 # ./bash/bash-quiz.md 78.0 [x] 77 [ ] 1.0
 # ./c++/c++-quiz.md 91.0 [x] 90 [ ] 1.0
